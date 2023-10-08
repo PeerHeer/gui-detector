@@ -1,0 +1,29 @@
+{
+    "values": [
+        "minecraft:furnace",
+        "minecraft:smoker",
+        "minecraft:blast_furnace",
+        "minecraft:chest",
+        "minecraft:trapped_chest",
+        "minecraft:ender_chest",
+        "#minecraft:anvil",
+        "#minecraft:shulker_boxes",
+        "minecraft:barrel",
+        "minecraft:stonecutter",
+        "minecraft:cartography_table",
+        "minecraft:smithing_table",
+        "minecraft:grindstone",
+        "minecraft:loom",
+        "minecraft:enchanting_table",
+        "minecraft:brewing_stand",
+        "minecraft:hopper",
+        "minecraft:dropper",
+        "minecraft:dispenser",
+        "minecraft:crafting_table",
+        "minecraft:beacon",
+        "#minecraft:all_signs",
+        "minecraft:command_block",
+        "minecraft:chain_command_block",
+        "minecraft:repeating_command_block"
+    ]
+}

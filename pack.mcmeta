@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 17,
+        "description": "GUI Detector - Detect if a player opens a GUI"
+    }
+}

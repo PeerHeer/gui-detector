@@ -1,0 +1,51 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:item_used_on_block",
+            "conditions": {
+                "location": [
+                    {
+                        "condition": "minecraft:any_of",
+                        "terms": [
+                            {
+                                "condition": "minecraft:entity_properties",
+                                "entity": "this",
+                                "predicate": {
+                                    "flags": {
+                                        "is_sneaking": false
+                                    }
+                                }
+                            },
+                            {
+                                "condition": "minecraft:match_tool",
+                                "predicate": {
+                                    "items": [
+                                        "minecraft:air"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "blocks": [
+                                    "minecraft:trapped_chest"
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "requirement"
+        ]
+    ],
+    "rewards": {
+        "function": "peerheer.gui_detector.internal:blocks/trapped_chest/event_item_used_on_block"
+    }
+}
