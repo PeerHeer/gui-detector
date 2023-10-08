@@ -1,6 +1,8 @@
 # Minecraft GUI Detector
 
-Detect when a player opens (almost) any GUI!
+### Detect when a player opens (almost) any GUI!
+
+Contains example advancements and commands to detect when a player opens a given GUI.
 
 ## Opening GUIs
 
