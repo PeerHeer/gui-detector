@@ -2,7 +2,7 @@
 
 ### Detect when a player opens (almost) any GUI!
 
-Contains example advancements and commands to detect when a player opens a given GUI.
+Contains example advancements (see [here](data/peerheer.gui_detector.internal/advancements/)) and commands (see [here](data/peerheer.gui_detector.internal/functions/)) to detect when a player opens a given GUI.
 
 ## Opening GUIs
 
