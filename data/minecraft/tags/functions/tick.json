@@ -1,5 +1,7 @@
 {
+    "replace": false,
     "values": [
-        "peerheer.gui_detector.internal:tick"
+        "peerheer.gui_detector.internal:items/writable_book/tick",
+        "peerheer.gui_detector.internal:items/written_book/tick"
     ]
 }

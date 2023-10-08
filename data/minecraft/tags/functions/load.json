@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "peerheer.gui_detector.internal:load"
+        "peerheer.gui_detector.internal:items/writable_book/load",
+        "peerheer.gui_detector.internal:items/written_book/load"
     ]
 }

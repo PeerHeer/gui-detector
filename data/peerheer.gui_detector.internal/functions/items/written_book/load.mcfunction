@@ -1,0 +1,1 @@
+scoreboard objectives add peerheer.gui_detector.opened_written_book minecraft.used:minecraft.written_book
